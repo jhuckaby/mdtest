@@ -2,7 +2,11 @@
 
 This is README.
 
-Here is a link to API: [API Here](https://github.com/jhuckaby/mdtest/blob/master/docs/API.md)
+Here is an absolute link to API: [API Here](https://github.com/jhuckaby/mdtest/blob/master/docs/API.md)
+
+Here is a relative link to API: [API rel](docs/API.md)
+
+Here is an alternate relative link to API: [API rel alt](blob/master/docs/API.md)
 
 # Usage
 
