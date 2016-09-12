@@ -2,7 +2,7 @@
 
 This is README.
 
-Here is a link to API: [API Here](https://github.com/jhuckaby/mdtest/blob/master/API.md)
+Here is a link to API: [API Here](https://github.com/jhuckaby/mdtest/blob/master/docs/API.md)
 
 # Usage
 
